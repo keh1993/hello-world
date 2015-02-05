@@ -2,4 +2,4 @@
 Hello world!
 
 
-Er du i tvil? Ta en kongepuddel.
+Er du i tvil? Ta med en kongepuddel.
